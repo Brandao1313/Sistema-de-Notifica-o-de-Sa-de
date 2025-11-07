@@ -161,3 +161,5 @@ O sistema inclui tratamento de exceções para:
 ## Autor
 
 Sistema desenvolvido para a disciplina de Programação Orientada a Objetos.
+Anderson Brandão &
+Fernanda Vogado
